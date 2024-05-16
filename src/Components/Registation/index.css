@@ -1,0 +1,19 @@
+.user-card {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.registati {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.regi-img {
+    height: 100vh;
+}
+
+.meterial-input{
+    width: 25vw;
+  padding: 15px;
+  margin-bottom: 30px;
+}
